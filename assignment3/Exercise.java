@@ -3,7 +3,7 @@ public class Exercise {
 
         char [][] mdArray = {{'1','1','1'},{'1','1','1'},{'1','1','1'}, {'1', '1', '1'}};
         
-        System.out.println("ASSIGNMENT #1: 10/24/2022");
+        System.out.println("ASSIGNMENT #3: 10/24/2022");
         
         System.out.println(" ");
         
